@@ -16,19 +16,17 @@ OBJETIVO
 <br>
 Desenvolvedor Back End 
 <hr>
-<br>
-<br>
 FORMAÇÃO
 <br>
 Ensino Médio Completo – 2017
 Colégio Estadual Herbert Moses.
-<br>
 <hr>
 HABILIDADES TÉCNICAS
 <br>
 Front-End: 
-Html5, Css3, Javascript
 <br>
+Html5, Css3, Javascript
+
 Back-End:
 <br>
 Java
